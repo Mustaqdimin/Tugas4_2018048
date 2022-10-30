@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplikasi Halodoc</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="deskription_menu">Dokter Umum</string>
+    <string name="ingredients">Alumni Universitas Baiturrahma, 2016</string>
+    <string name="Resep">Praktik di Batam, Riau</string>
+    <string name="price">Nomor STR 132468246827</string>
+    <string name="Harga_dokter">Rp25.000</string>
+</resources>
